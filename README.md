@@ -1,4 +1,4 @@
-Google Trends Data Visualization
+# Google Trends Data Visualization
 This project provides a set of functions to read, process, and visualize data from Google Trends. The data is related to workout trends and interests across different regions and time periods.
 
 Features
